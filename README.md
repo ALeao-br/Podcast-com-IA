@@ -3,7 +3,7 @@ Criação e desenvolvimento de um Podcast utilizando ferramentas de IA
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa na plataforma da [DIO](https://dio.me)
 
-📕Clique aqui para ouvir
+<a href="https://github.com/ALeao-br/Podcast-com-IA/blob/main/Arquivos%20de%20audio/PODCAST.MP3" title="Listen MP3 now"> 📕Clique aqui para ouvir
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -54,4 +54,4 @@ CapCut:
 - Podcast gerado durante as aulas em `Arquivos de audio`
 - Roteiro em word 
 
-⌨️ com 💜 por Alessandra Leão 📕Clique aqui para ler
+⌨️ com 💜 por Alessandra Leão <a href="https://github.com/ALeao-br/Podcast-com-IA/blob/main/Arquivos%20de%20audio/PODCAST.MP3" title="Listen MP3 now"> 📕Clique aqui para ouvir
